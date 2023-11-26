@@ -1,2 +1,2 @@
 # Machine_learning_basics
-learning ML
+exercises from learning ML
